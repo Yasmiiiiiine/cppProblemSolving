@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+int main(){
+int number;
+long long number2;
+char a;
+float b ;
+double c;
+cin>>number;
+cin>>number2;
+cin>>a;
+cin>>b;
+cin>>c;
+cout<<number<<endl;
+cout<<number2<<endl;
+cout<<a<<endl;
+cout<<b<<endl;
+cout<<c<<endl;
+return 0;
+ 
+}
