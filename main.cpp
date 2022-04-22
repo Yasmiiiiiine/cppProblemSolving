@@ -1,19 +1,10 @@
 #include <iostream>
-
 using namespace std;
 int main(){
-int number1 , number2 ;
-cin >> number1 >>number2 ;
-
-
-cout<<number1%10 + number2%10;
-
+    long long int a,b,c,d,x;
+    cin >>a>>b>>c>>d;
+    x = (a*b)-(c*d);
+    cout << "Difference = "<<x;
 
     return 0;
 }
-
-
-
-
-
-//478712416751519618 906380052706837826
